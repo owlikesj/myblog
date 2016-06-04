@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+{% highlight javascript %}
+var me = {
+    "name":         "owlikesj",
+    "sex":          "male",
+    "born":         "19920525",
+    "graduated":    "Shanghai University",
+    "major":        "Information and Computing Science",
+    "profession":   "front-end developer"
+};
+{% endhighlight %}
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Hello, my nickname is OwlikeSJ. I'm from Jiangxi and living in Shanghai. I like learning mathematica and graduated from Shanghai University.
