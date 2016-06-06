@@ -9,7 +9,7 @@
 title: OwlikeSJ's Blog
 email: owlikesj@gmail.com
 description: "Welcome to OwlikeSJ's Blog!"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: OwlikeSJ
 github_username:  OwlikeSJ
