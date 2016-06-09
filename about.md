@@ -6,12 +6,12 @@ permalink: /about/
 
 {% highlight javascript %}
 var me = {
-    "name":         "owlikesj",
-    "sex":          "male",
-    "born":         "19920525",
-    "graduated":    "Shanghai University",
-    "major":        "Information and Computing Science",
-    "profession":   "front-end developer"
+ 	"name":			"owlikesj",
+	"sex":			"male",
+	"born":			"19920525",
+	"graduated":		"Shanghai University",
+	"major":			"Information and Computing Science",
+	"profession":		"front-end developer"
 };
 {% endhighlight %}
 
