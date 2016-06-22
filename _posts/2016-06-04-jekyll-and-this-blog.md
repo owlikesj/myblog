@@ -4,7 +4,7 @@ title:  "关于Jekyll和我的博客"
 date:   2016-06-04 20:10:00 +0800
 ---
 
-![Jekyll logo](/images/jekyll-logo.png "Jekyll")
+![Jekyll logo]({{site.baseurl}}/images/jekyll-logo.png "Jekyll")
 
 Jekyll是个啥？点击 [https://jekyllrb.com/](https://jekyllrb.com/) 进入它的官网，可以看到如下描述：
 
